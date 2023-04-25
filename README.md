@@ -3,7 +3,7 @@
 ## 简介
 Photopea是一个基于在线的图像编辑器，本客户端专为Photopea而设计。
 ## 获取
-你可以到GItHub Actions标签获取最新编译的Photopea
+你可以到[GitHub Release](https://github.com/AkarinLiu/Photopea/releases)获取最新的Photopea安装程序
 ## 构建
 执行以下命令：
 ### Windows
