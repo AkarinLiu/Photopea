@@ -1,0 +1,9 @@
+{
+  "name": "Photopea",
+  "version": "2023.4.25beta",
+  "main": "index.js",
+  "repository": "git@github.com/AkarinLiu/Photopea",
+  "author": "AkarinLiu <lf5emoks@anonaddy.me>",
+  "license": "MIT",
+  "private": false
+}
